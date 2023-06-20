@@ -45,3 +45,26 @@ HEDEF KİTLE:
     • Sonra Belirlenecek
     • Sonra Belirlenecek
     • Sonra Belirlenecek
+
+    Sprint 1
+    • Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+    
+    • Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+    
+    • Daily Scrum: Sonradan birleşen bir takım olduğumuz için ilk toplantımızı 17.06.2023’de yapabildik. Bu toplantı bizim için hem Daily Scrum, hem Sprint Review hem de Sprint Retrospective anlamını taşıdı.
+    
+    • Sprint board update: Sprint board screenshotları:
+    •![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/7d93ae04-7dee-40f7-874b-6415f8f01fc8)
+    
+     • Sprint Review: 
+        Alınan kararlar: Oyunun türüne ve takım rollerine karar verildi. Oyun tarasarımı 2. Ve 3.spirinte bırakıldı. 
+        Sprint Review katılımcıları: Egemen Duman, Alperen Turgut, Aylin Gelmez, Ceren Altunbaş
+   
+    • Sprint Retrospective:
+        ◦ Roller belirlendi
+        ◦ Takım içindeki görev dağılımı yapıldı
+        ◦ Takım üyeleri gelecek sprintlerde daha aktif olmaya çalışacak
+
+
+
+
