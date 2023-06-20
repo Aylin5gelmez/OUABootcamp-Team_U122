@@ -55,7 +55,7 @@ HEDEF KİTLE:
     
     • Sprint board update: Sprint board screenshotları:
     •![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/7d93ae04-7dee-40f7-874b-6415f8f01fc8)
-    
+    <img src="" width="auto">
      • Sprint Review: 
         Alınan kararlar: Oyunun türüne ve takım rollerine karar verildi. Oyun tarasarımı 2. Ve 3.spirinte bırakıldı. 
         Sprint Review katılımcıları: Egemen Duman, Alperen Turgut, Aylin Gelmez, Ceren Altunbaş
