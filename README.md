@@ -54,9 +54,8 @@ HEDEF KİTLE:
     • Daily Scrum: Sonradan birleşen bir takım olduğumuz için ilk toplantımızı 17.06.2023’de yapabildik. Bu toplantı bizim için hem Daily Scrum, hem Sprint Review hem de Sprint Retrospective anlamını taşıdı.
     
     • Sprint board update: Sprint board screenshotları:
-    •![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/7d93ae04-7dee-40f7-874b-6415f8f01fc8)
-    <img src=" https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH" width="auto">
-    https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH
+     https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH
+    <img src="https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH"width="auto">
     
 
      • Sprint Review: 
