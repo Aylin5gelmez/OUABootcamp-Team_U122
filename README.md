@@ -54,9 +54,9 @@ HEDEF KİTLE:
     • Daily Scrum: Sonradan birleşen bir takım olduğumuz için ilk toplantımızı 17.06.2023’de yapabildik. Bu toplantı bizim için hem Daily Scrum, hem Sprint Review hem de Sprint Retrospective anlamını taşıdı.
     
     • Sprint board update: Sprint board screenshotları:
-     https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH
-    <img src="https://1drv.ms/i/s!AjwxovcjTQebgf8CWac_-Mo64dfFEg?e=1MwOmH"width="auto">
-    
+   
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/3257bb7f-3193-4269-94f1-40bb222327e3)
+
 
      • Sprint Review: 
         Alınan kararlar: Oyunun türüne ve takım rollerine karar verildi. Oyun tarasarımı 2. Ve 3.spirinte bırakıldı. 
