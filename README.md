@@ -87,3 +87,25 @@ Sprint Review katılımcıları: Egemen Duman, Alperen Turgut, Aylin Gelmez
         ◦ Backlogda kalan görevlerin tamamlanması konuşuldu
         ◦ Oyunun içeriğinde değişikliğe gidilmesi düşünüldü
         ◦ Takım üyeleri son sprintte daha aktif olmaya çalışacak
+        
+Sprint 3
+
+•	Sprint içinde tamamlanması tahmin edilen puan: 290 Puan
+
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 1.sprintte 50 puanlık görev tamamlandı. İkinci sprintten kalan görevlerin puanı 150. Üçüncü sprintin değer puanı 140. İkinci sprintten kalanlar ve üçüncü sprint ile 290 puanlık değer teslimi ön görülmektedir. 
+
+•	Daily Scrum: Son sprintte grup günlük olarak aktif iletişimde bulundu, zoom toplantıları yapıldı.
+
+•	Sprint board update: Sprint board screenshotları:
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/6e9c11d7-46b3-42f7-85f0-5f3e7d56a2bd)
+
+
+•	Sprint Review: 
+
+Mini oyunlar tamamlandı. Oyun tasarımı sadeleştirildi. 2D oyunların entegrasyon sorunları çözüldü. 
+
+Sprint Review katılımcıları: Egemen Duman, Alperen Turgut, Aylin Gelmez, Ceren Altunbaş
+
+•	Sprint Retrospective:
+o	Backlogda kalan görevleri yetiştirdik
+o	Ortaya çıkan ürün en başta hayal ettiğimiz gibi olmasa da kısıtlı zamanda planlanana yakın ürün çıkardık
