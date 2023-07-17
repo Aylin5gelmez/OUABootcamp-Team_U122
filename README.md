@@ -94,6 +94,7 @@ Sprint 3
 
 •	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 1.sprintte 50 puanlık görev tamamlandı. İkinci sprintten kalan görevlerin puanı 150. Üçüncü sprintin değer puanı 140. İkinci sprintten kalanlar ve üçüncü sprint ile 290 puanlık değer teslimi ön görülmektedir. 
 
+
 •	Daily Scrum: Son sprintte grup günlük olarak aktif iletişimde bulundu, zoom toplantıları yapıldı.
 
 •	Sprint board update: Sprint board screenshotları:
@@ -109,3 +110,11 @@ Sprint Review katılımcıları: Egemen Duman, Alperen Turgut, Aylin Gelmez, Cer
 •	Sprint Retrospective:
 o	Backlogda kalan görevleri yetiştirdik
 o	Ortaya çıkan ürün en başta hayal ettiğimiz gibi olmasa da kısıtlı zamanda planlanana yakın ürün çıkardık
+
+•Ürün Durumu : Tamamlandı
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/4afa1fdb-ddd9-4598-8bc1-252c11902f81)
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/556bdf79-a851-40ce-ac61-adb6b4175b91)
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/d9e884ff-0808-43ab-98bd-6f82da626cc7)
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/c7490322-c042-4507-bae7-36a2dce27c2d)
+![image](https://github.com/Aylin5gelmez/OUABootcamp-Team_U122/assets/113698406/5e5c9e6d-bf1c-40f3-916a-c7c4ad1d7081)
+
